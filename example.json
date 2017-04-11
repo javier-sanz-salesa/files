@@ -1,0 +1,2114 @@
+[{
+	"uuid": "F-CaijQr_jl2BublqaFVxxvmNpxwdmwJxvdksRGUV9p0vjsKQoETJdp1fToHxRY5",
+	"status": {
+		"cod": "5",
+		"description": "Operative"
+	},
+	"holders": [{
+		"interventionDegree": {
+			"description": "AUTORIZADO",
+			"code": "3"
+		},
+		"name": "INMACULADA GONZALEZ NIETO"
+	}, {
+		"interventionDegree": {
+			"description": "TITULAR",
+			"code": "1"
+		},
+		"name": "JERONIMO GALVEZ CORRAL"
+	}],
+	"tae": 0.00,
+	"sinceOpen": 2536.70,
+	"sinceYear": 0.13,
+	"sinceMonth": -0.16,
+	"yearRetention": 0.03,
+	"nominal": 0.00,
+	"openingDate": "05/10/2000",
+	"bic": "INGDESMMXXX",
+	"bank": "1465",
+	"iban": "ES61 1465 0100 93 2001259087",
+	"productNumber": "14650100932001259087",
+	"name": "Cuenta NARANJA",
+	"type": 20,
+	"availableBalance": 1334.79,
+	"interventionCod": 3,
+	"balance": 1350.79,
+	"moreInterveners": true,
+	"enableAlias": true,
+	"interventionDesc": "Autorizado"
+}, {
+	"uuid": "F-CaijQr_jl2BublqaFVxxo8dll14FkUvwXnDUxxBPVurRioVN99H1S6kWHNZm48",
+	"status": {
+		"cod": "5",
+		"description": "Operative"
+	},
+	"holders": [{
+		"interventionDegree": {
+			"description": "PRIMER TITULAR",
+			"code": "1"
+		},
+		"name": "INMACULADA GONZALEZ NIETO"
+	}, {
+		"interventionDegree": {
+			"description": "COTITULAR",
+			"code": "2"
+		},
+		"name": "JUAN MANUELL RAMOS PEREZ"
+	}, {
+		"interventionDegree": {
+			"description": "COTITULAR",
+			"code": "2"
+		},
+		"name": "JOSE MANUEL CORRAL CARBO"
+	}, {
+		"interventionDegree": {
+			"description": "COTITULAR",
+			"code": "2"
+		},
+		"name": "LUIS CUESTA CARBO"
+	}],
+	"tae": 0.00,
+	"sinceOpen": 2000.10,
+	"sinceYear": 4.70,
+	"sinceMonth": -6.21,
+	"yearRetention": 0.99,
+	"nominal": 0.00,
+	"openingDate": "30/11/2000",
+	"bic": "INGDESMMXXX",
+	"bank": "1465",
+	"iban": "ES70 1465 0100 94 2001445116",
+	"productNumber": "14650100942001445116",
+	"name": "Cuenta NARANJA",
+	"type": 20,
+	"availableBalance": 50313.77,
+	"interventionCod": 1,
+	"balance": 50333.99,
+	"moreInterveners": true,
+	"enableAlias": true,
+	"interventionDesc": "Primer titular"
+}, {
+	"uuid": "TJa1EHr5S2t1d0pwaLszFGPRdschUt4XT_PNgv9n1MlV54siTFFW0dP8jmXLQ1p3",
+	"status": {
+		"cod": "5",
+		"description": "Operative"
+	},
+	"holders": [{
+		"interventionDegree": {
+			"description": "TITULAR",
+			"code": "1"
+		},
+		"name": "INMACULADA GONZALEZ NIETO"
+	}],
+	"alias": "Cuenta de efectivo PRUEBAS2",
+	"openingDate": "14/11/2002",
+	"bic": "INGDESMMXXX",
+	"bank": "1465",
+	"iban": "ES08 1465 0100 98 1000000382",
+	"productNumber": "14650100981000000382",
+	"name": "Cuenta de efectivo",
+	"type": 10,
+	"availableBalance": 9855.72,
+	"interventionCod": 1,
+	"balance": 65411.96,
+	"moreInterveners": false,
+	"enableAlias": true,
+	"interventionDesc": "Titular"
+}, {
+	"uuid": "TJa1EHr5S2t1d0pwaLszFK1MQedtQYyoZ600pvyQjB32TTRMp7ac4rb2HpwXr-WA",
+	"status": {
+		"cod": "5",
+		"description": "Operative"
+	},
+	"holders": [{
+		"interventionDegree": {
+			"description": "PRIMER TITULAR",
+			"code": "1"
+		},
+		"name": "INMACULADA GONZALEZ NIETO"
+	}, {
+		"interventionDegree": {
+			"description": "COTITULAR",
+			"code": "2"
+		},
+		"name": "JUAN MANUELL RAMOS PEREZ"
+	}],
+	"alias": "Cuenta de efectivo paco",
+	"openingDate": "14/11/2002",
+	"bic": "INGDESMMXXX",
+	"bank": "1465",
+	"iban": "ES45 1465 0100 92 1000000398",
+	"productNumber": "14650100921000000398",
+	"name": "Cuenta de efectivo",
+	"type": 10,
+	"availableBalance": 9568.72,
+	"interventionCod": 1,
+	"balance": 14812.18,
+	"moreInterveners": true,
+	"enableAlias": true,
+	"interventionDesc": "Primer titular"
+}, {
+	"uuid": "6jfP46ePqumHSW8xCpxXxs-RYbJ5grZDB8gxf9UTcanQRLgjO-aFjZ-y1iOWMKz4FLweVnZ2oq_kfr-FRcO6TA",
+	"status": {
+		"cod": "5",
+		"description": "Operative"
+	},
+	"holders": [{
+		"interventionDegree": {
+			"description": "COTITULAR",
+			"code": "2"
+		},
+		"name": "INMACULADA GONZALEZ NIETO"
+	}, {
+		"interventionDegree": {
+			"description": "AUTORIZADO",
+			"code": "3"
+		},
+		"name": "IGNACIO HUERTAS CUESTA"
+	}, {
+		"interventionDegree": {
+			"description": "PRIMER TITULAR",
+			"code": "1"
+		},
+		"name": "JAVIER DOMINGUEZ CABRERA"
+	}],
+	"assignedOverdraftLimit": 0.00,
+	"alias": "Cuenta NÓMINA corto",
+	"openingDate": "05/04/2006",
+	"bic": "INGDESMMXXX",
+	"bank": "1465",
+	"iban": "ES14 1465 0100 94 1700448916",
+	"productNumber": "14650100941700448916",
+	"name": "Cuenta NÓMINA",
+	"type": 17,
+	"subtype": "1",
+	"availableBalance": 0.00,
+	"interventionCod": 2,
+	"balance": 0.00,
+	"moreInterveners": true,
+	"enableAlias": true,
+	"interventionDesc": "Cotitular"
+}, {
+	"uuid": "TJa1EHr5S2t1d0pwaLszFLem-4z0odVNZeWmX0r42EmjuqS4dw3faOyxNfJFja-D",
+	"status": {
+		"cod": "0",
+		"description": "Active"
+	},
+	"holders": [{
+		"interventionDegree": {
+			"description": "TITULAR",
+			"code": "1"
+		},
+		"name": "PEPE P0000000015"
+	}, {
+		"interventionDegree": {
+			"description": "AUTORIZADO",
+			"code": "3"
+		},
+		"name": "INMACULADA GONZALEZ NIETO"
+	}],
+	"openingDate": "23/11/2007",
+	"bic": "INGDESMMXXX",
+	"bank": "1465",
+	"iban": "ES15 1465 0100 93 1001109017",
+	"productNumber": "14650100931001109017",
+	"name": "Cuenta de efectivo",
+	"type": 10,
+	"availableBalance": 2047.54,
+	"interventionCod": 3,
+	"balance": 2047.54,
+	"moreInterveners": true,
+	"enableAlias": true,
+	"interventionDesc": "Autorizado"
+}, {
+	"uuid": "F-CaijQr_jl2BublqaFVx4XoHRwoME21VV37h8qpag7ySFqaekbe3ncVVAisvXiH",
+	"status": {
+		"cod": "0",
+		"description": "Active"
+	},
+	"holders": [{
+		"interventionDegree": {
+			"description": "TITULAR",
+			"code": "1"
+		},
+		"name": "INMACULADA GONZALEZ NIETO"
+	}, {
+		"interventionDegree": {
+			"description": "AUTORIZADO",
+			"code": "3"
+		},
+		"name": "JAVIER VELASCO ORTIZ"
+	}],
+	"tae": 0.00,
+	"sinceOpen": 0.63,
+	"sinceYear": 0.00,
+	"sinceMonth": -0.00,
+	"yearRetention": 0.00,
+	"nominal": 0.00,
+	"openingDate": "14/06/2009",
+	"bic": "INGDESMMXXX",
+	"bank": "1465",
+	"iban": "ES89 1465 0100 94 2700350726",
+	"productNumber": "14650100942700350726",
+	"name": "Cuenta Impuestos Cero",
+	"type": 27,
+	"availableBalance": 0.52,
+	"interventionCod": 1,
+	"balance": 0.52,
+	"moreInterveners": true,
+	"enableAlias": true,
+	"interventionDesc": "Titular"
+}, {
+	"uuid": "F-CaijQr_jl2BublqaFVxzAFc10f55MLWWCUIi_hIzL3beEE5Ivx-pOydYfpfbfn",
+	"status": {
+		"cod": "8",
+		"description": "Blocked"
+	},
+	"holders": [{
+		"interventionDegree": {
+			"description": "PRIMER TITULAR",
+			"code": "1"
+		},
+		"name": "INMACULADA GONZALEZ NIETO"
+	}, {
+		"interventionDegree": {
+			"description": "COTITULAR",
+			"code": "2"
+		},
+		"name": "JERONIMO GALVEZ ESPUÑA"
+	}],
+	"tae": 0.00,
+	"sinceOpen": 7162.56,
+	"sinceYear": 28.21,
+	"sinceMonth": -37.29,
+	"yearRetention": 5.93,
+	"nominal": 0.00,
+	"alias": "Cuenta NARANJA La del pueblo",
+	"openingDate": "30/11/2009",
+	"bic": "INGDESMMXXX",
+	"bank": "1465",
+	"iban": "ES93 1465 0100 97 2025610553",
+	"productNumber": "14650100972025610553",
+	"name": "Cuenta NARANJA",
+	"type": 20,
+	"availableBalance": 302535.88,
+	"interventionCod": 1,
+	"balance": 302535.88,
+	"moreInterveners": true,
+	"enableAlias": true,
+	"interventionDesc": "Primer titular"
+}, {
+	"uuid": "F-CaijQr_jl2BublqaFVxx_jo49lNJuWlSOppn_OaLIAkhMwmmkVtKu_5CdnjAFD",
+	"status": {
+		"cod": "5",
+		"description": "Operative"
+	},
+	"holders": [{
+		"interventionDegree": {
+			"description": "TITULAR",
+			"code": "1"
+		},
+		"name": "INMACULADA GONZALEZ NIETO"
+	}],
+	"tae": 0.00,
+	"sinceOpen": 3086.40,
+	"sinceYear": 21.70,
+	"sinceMonth": -1271.96,
+	"yearRetention": 4.56,
+	"nominal": 0.00,
+	"alias": "Cuenta Impuestos Cero Imprevistos",
+	"openingDate": "16/07/2010",
+	"bic": "INGDESMMXXX",
+	"bank": "1465",
+	"iban": "ES19 1465 0100 93 2700703757",
+	"productNumber": "14650100932700703757",
+	"name": "Cuenta Impuestos Cero",
+	"type": 27,
+	"availableBalance": 184475.40,
+	"interventionCod": 1,
+	"balance": 184475.40,
+	"moreInterveners": false,
+	"enableAlias": true,
+	"interventionDesc": "Titular"
+}, {
+	"uuid": "6jfP46ePqumHSW8xCpxXxs-RYbJ5grZDB8gxf9UTcam3TaQvardx-nukN86kfEwrFLweVnZ2oq_kfr-FRcO6TA",
+	"status": {
+		"cod": "5",
+		"description": "Operative"
+	},
+	"holders": [{
+		"interventionDegree": {
+			"description": "AUTORIZADO",
+			"code": "3"
+		},
+		"name": "JESUS TORRES TORRES"
+	}, {
+		"interventionDegree": {
+			"description": "PRIMER TITULAR",
+			"code": "1"
+		},
+		"name": "INMACULADA GONZALEZ NIETO"
+	}, {
+		"interventionDegree": {
+			"description": "COTITULAR",
+			"code": "2"
+		},
+		"name": "IGNACIO CABRERA GONZALEZ"
+	}],
+	"assignedOverdraftLimit": 0.00,
+	"alias": "Cuenta NÓMINA eeeeeeeee",
+	"openingDate": "04/04/2011",
+	"bic": "INGDESMMXXX",
+	"bank": "1465",
+	"iban": "ES33 1465 0110 68 1708253192",
+	"productNumber": "14650110681708253192",
+	"name": "Cuenta SIN NÓMINA",
+	"type": 17,
+	"subtype": "6",
+	"availableBalance": 0.00,
+	"interventionCod": 1,
+	"balance": 0.00,
+	"moreInterveners": true,
+	"enableAlias": true,
+	"interventionDesc": "Primer titular"
+}, {
+	"uuid": "6jfP46ePqumHSW8xCpxXxs-RYbJ5grZDB8gxf9UTcaltJUm-Mbnn5sM2_Aafop2vFLweVnZ2oq_kfr-FRcO6TA",
+	"status": {
+		"cod": "0",
+		"description": "Active"
+	},
+	"holders": [{
+		"interventionDegree": {
+			"description": "PRIMER TITULAR",
+			"code": "1"
+		},
+		"name": "INMACULADA GONZALEZ NIETO"
+	}, {
+		"interventionDegree": {
+			"description": "COTITULAR",
+			"code": "2"
+		},
+		"name": "JAIME GARCIA GOMEZ"
+	}],
+	"assignedOverdraftLimit": 0.00,
+	"openingDate": "28/05/2012",
+	"bic": "INGDESMMXXX",
+	"bank": "1465",
+	"iban": "ES14 1465 0100 92 1708297478",
+	"productNumber": "14650100921708297478",
+	"name": "C. NÓMINA con hipoteca",
+	"type": 17,
+	"subtype": "3",
+	"availableBalance": 8061.75,
+	"interventionCod": 1,
+	"balance": 8061.75,
+	"moreInterveners": true,
+	"enableAlias": true,
+	"interventionDesc": "Primer titular"
+}, {
+	"uuid": "6jfP46ePqumHSW8xCpxXxs-RYbJ5grZDB8gxf9UTcanBaLJsSxB91PvNZShr4O15FLweVnZ2oq_kfr-FRcO6TA",
+	"status": {
+		"cod": "5",
+		"description": "Operative"
+	},
+	"holders": [{
+		"interventionDegree": {
+			"description": "PRIMER TITULAR",
+			"code": "1"
+		},
+		"name": "PEPE P0000000015"
+	}, {
+		"interventionDegree": {
+			"description": "COTITULAR",
+			"code": "2"
+		},
+		"name": "INMACULADA GONZALEZ NIETO"
+	}],
+	"assignedOverdraftLimit": 0.00,
+	"alias": "Cuenta NÓMINA Al y Hass",
+	"openingDate": "18/06/2012",
+	"bic": "INGDESMMXXX",
+	"bank": "1465",
+	"iban": "ES46 1465 0100 91 1708302189",
+	"productNumber": "14650100911708302189",
+	"name": "Cuenta NÓMINA",
+	"type": 17,
+	"subtype": "1",
+	"availableBalance": 11601.63,
+	"interventionCod": 2,
+	"balance": 11601.63,
+	"moreInterveners": true,
+	"enableAlias": true,
+	"interventionDesc": "Cotitular"
+}, {
+	"uuid": "6jfP46ePqumHSW8xCpxXxs-RYbJ5grZDB8gxf9UTcalG866NH6XusFR34MeWrRnPFLweVnZ2oq_kfr-FRcO6TA",
+	"status": {
+		"cod": "0",
+		"description": "Active"
+	},
+	"holders": [{
+		"interventionDegree": {
+			"description": "TITULAR",
+			"code": "1"
+		},
+		"name": "INMACULADA GONZALEZ NIETO"
+	}],
+	"assignedOverdraftLimit": 0.00,
+	"openingDate": "20/07/2012",
+	"bic": "INGDESMMXXX",
+	"bank": "1465",
+	"iban": "ES28 1465 0100 95 1708308525",
+	"productNumber": "14650100951708308525",
+	"name": "Cuenta NÓMINA",
+	"type": 17,
+	"subtype": "1",
+	"availableBalance": 3711.78,
+	"interventionCod": 1,
+	"balance": 3711.78,
+	"moreInterveners": false,
+	"enableAlias": true,
+	"interventionDesc": "Titular"
+}, {
+	"uuid": "6jfP46ePqumHSW8xCpxXxs-RYbJ5grZDB8gxf9UTcalib_jll4FMqbLkJVUI2IDZFLweVnZ2oq_kfr-FRcO6TA",
+	"status": {
+		"cod": "5",
+		"description": "Operative"
+	},
+	"holders": [{
+		"interventionDegree": {
+			"description": "COTITULAR",
+			"code": "2"
+		},
+		"name": "INMACULADA GONZALEZ NIETO"
+	}, {
+		"interventionDegree": {
+			"description": "PRIMER TITULAR",
+			"code": "1"
+		},
+		"name": "JORGE ESPUÑA JOHANSSON"
+	}],
+	"assignedOverdraftLimit": 0.00,
+	"openingDate": "03/10/2012",
+	"bic": "INGDESMMXXX",
+	"bank": "1465",
+	"iban": "ES26 1465 0110 68 1708318502",
+	"productNumber": "14650110681708318502",
+	"name": "Segunda Cuenta Nómina",
+	"type": 17,
+	"subtype": "4",
+	"availableBalance": 14818.77,
+	"interventionCod": 2,
+	"balance": 14958.77,
+	"moreInterveners": true,
+	"enableAlias": true,
+	"interventionDesc": "Cotitular"
+}, {
+	"uuid": "6jfP46ePqumHSW8xCpxXxs-RYbJ5grZDB8gxf9UTcamya2QE1IYi7O-RTzWL50X7FLweVnZ2oq_kfr-FRcO6TA",
+	"status": {
+		"cod": "5",
+		"description": "Operative"
+	},
+	"holders": [{
+		"interventionDegree": {
+			"description": "TITULAR",
+			"code": "1"
+		},
+		"name": "INMACULADA GONZALEZ NIETO"
+	}],
+	"assignedOverdraftLimit": 0.00,
+	"openingDate": "02/04/2014",
+	"bic": "INGDESMMXXX",
+	"bank": "1465",
+	"iban": "ES39 1465 0110 61 1708383698",
+	"productNumber": "14650110611708383698",
+	"name": "Cuenta SIN NÓMINA",
+	"type": 17,
+	"subtype": "6",
+	"availableBalance": 309.17,
+	"interventionCod": 1,
+	"balance": 311.17,
+	"moreInterveners": false,
+	"enableAlias": true,
+	"interventionDesc": "Titular"
+}, {
+	"uuid": "6jfP46ePqumHSW8xCpxXxs-RYbJ5grZDB8gxf9UTcamaAnhpMQTw8Yeugaxvj8cQFLweVnZ2oq_kfr-FRcO6TA",
+	"status": {
+		"cod": "0",
+		"description": "Active"
+	},
+	"holders": [{
+		"interventionDegree": {
+			"description": "COTITULAR",
+			"code": "2"
+		},
+		"name": "INMACULADA GONZALEZ NIETO"
+	}, {
+		"interventionDegree": {
+			"description": "PRIMER TITULAR",
+			"code": "1"
+		},
+		"name": "MARIA CASTELLAR"
+	}],
+	"assignedOverdraftLimit": 0.00,
+	"openingDate": "15/06/2016",
+	"bic": "INGDESMMXXX",
+	"bank": "1465",
+	"iban": "ES63 1465 0100 91 1708458150",
+	"productNumber": "14650100911708458150",
+	"name": "Cuenta NÓMINA",
+	"type": 17,
+	"subtype": "1",
+	"availableBalance": 5006.00,
+	"interventionCod": 2,
+	"balance": 5006.00,
+	"moreInterveners": true,
+	"enableAlias": true,
+	"interventionDesc": "Cotitular"
+}, {
+	"uuid": "Me5QbEjPYy8w9S_b2t0EjZU4vz6EZS-M9J_gq4Z-tiCHpK8YLfVZ7ZYq7BV2utFE",
+	"status": {
+		"cod": "5",
+		"description": "Operative"
+	},
+	"holders": [{
+		"interventionDegree": {
+			"description": "TITULAR",
+			"code": "1"
+		},
+		"name": "INMACULADA GONZALEZ NIETO"
+	}],
+	"pendingSettlementOrders": [{
+		"associatedAccount": "1465 0110 68 1708318502",
+		"amount": 1.00
+	}, {
+		"associatedAccount": "1465 0100 94 1700448916",
+		"amount": 10.00
+	}, {
+		"associatedAccount": "1465 0100 91 1708404168",
+		"amount": 1.00
+	}, {
+		"associatedAccount": "1465 0100 98 2000000492",
+		"amount": 10.00
+	}],
+	"openingDate": "24/10/2000",
+	"investment": 2065.72,
+	"performance": -2030.30,
+	"assessment": 35.42,
+	"assessmentDate": "21/12/2016",
+	"cumulativeReturn": -98.29,
+	"currentYearReturn": 0.00,
+	"lastTwelveMonthsReturn": -21.57,
+	"lastMonthReturn": 0.00,
+	"numberOfShares": 3.728332,
+	"sharesAvailable": 2.37101,
+	"lastNetAssetValue": 9.50,
+	"lastNetAssetValueDate": "21/12/2016",
+	"productNumber": "146501009740000000531",
+	"type": 40,
+	"availableBalance": 35.42,
+	"interventionCod": 1,
+	"balance": 35.42,
+	"moreInterveners": false,
+	"enableAlias": false,
+	"interventionDesc": "Titular",
+	"name": "Fondo NARANJA S&P 500"
+}, {
+	"uuid": "Me5QbEjPYy8w9S_b2t0EjS0uw7y0XchtPzc69TL35SKHpK8YLfVZ7ZYq7BV2utFE",
+	"status": {
+		"cod": "5",
+		"description": "Operative"
+	},
+	"holders": [{
+		"interventionDegree": {
+			"description": "TITULAR",
+			"code": "1"
+		},
+		"name": "INMACULADA GONZALEZ NIETO"
+	}],
+	"openingDate": "27/10/2000",
+	"investment": 0.00,
+	"performance": 0.00,
+	"assessment": 0.00,
+	"assessmentDate": "28/05/2012",
+	"cumulativeReturn": 0.00,
+	"currentYearReturn": 0.00,
+	"lastTwelveMonthsReturn": 0.00,
+	"lastMonthReturn": 0.00,
+	"numberOfShares": 0.00,
+	"sharesAvailable": 0.00,
+	"lastNetAssetValue": 11.890577,
+	"lastNetAssetValueDate": "28/05/2012",
+	"productNumber": "146501009740000000532",
+	"type": 40,
+	"availableBalance": 0.00,
+	"interventionCod": 1,
+	"balance": 0.00,
+	"moreInterveners": false,
+	"enableAlias": false,
+	"interventionDesc": "Titular",
+	"name": "Fondo NARANJA Mixto Europeo"
+}, {
+	"uuid": "Me5QbEjPYy8w9S_b2t0EjRBisVKmZBAIKqkKZycAA2WHpK8YLfVZ7ZYq7BV2utFE",
+	"status": {
+		"cod": "5",
+		"description": "Operative"
+	},
+	"holders": [{
+		"interventionDegree": {
+			"description": "TITULAR",
+			"code": "1"
+		},
+		"name": "INMACULADA GONZALEZ NIETO"
+	}],
+	"pendingSettlementOrders": [{
+		"associatedAccount": "1465 0100 91 1708404168",
+		"amount": 22.00
+	}, {
+		"associatedAccount": "1465 0100 91 1708404168",
+		"amount": 99.00
+	}, {
+		"associatedAccount": "1465 0100 94 2001445116",
+		"amount": 6.00
+	}, {
+		"associatedAccount": "1465 0100 91 1708404168",
+		"amount": 22.00
+	}, {
+		"associatedAccount": "1465 0100 91 1708404168",
+		"amount": 99.00
+	}, {
+		"associatedAccount": "1465 0100 94 1700448916",
+		"amount": 1.00
+	}, {
+		"associatedAccount": "1465 0100 91 1708404168",
+		"amount": 22.00
+	}, {
+		"associatedAccount": "1465 0100 91 1708404168",
+		"amount": 99.00
+	}, {
+		"associatedAccount": "1465 0100 94 1700448916",
+		"amount": 11.00
+	}, {
+		"associatedAccount": "1465 0100 91 1708404168",
+		"amount": 22.00
+	}, {
+		"associatedAccount": "1465 0100 91 1708404168",
+		"amount": 99.00
+	}, {
+		"associatedAccount": "1465 0100 93 2001259087",
+		"amount": 100.00
+	}, {
+		"associatedAccount": "1465 0100 94 2001445116",
+		"amount": 100.00
+	}, {
+		"associatedAccount": "1465 0100 94 1700448916",
+		"amount": 11.00
+	}, {
+		"associatedAccount": "1465 0100 91 1708404168",
+		"amount": 22.00
+	}, {
+		"associatedAccount": "1465 0100 91 1708404168",
+		"amount": 99.00
+	}, {
+		"associatedAccount": "1465 0100 94 1700448916",
+		"amount": 11.00
+	}, {
+		"associatedAccount": "1465 0100 91 1708404168",
+		"amount": 22.00
+	}, {
+		"associatedAccount": "1465 0100 91 1708404168",
+		"amount": 99.00
+	}, {
+		"associatedAccount": "1465 0100 94 1700448916",
+		"amount": 11.00
+	}, {
+		"associatedAccount": "1465 0100 91 1708404168",
+		"amount": 22.00
+	}, {
+		"associatedAccount": "1465 0100 91 1708404168",
+		"amount": 99.00
+	}, {
+		"associatedAccount": "1465 0100 94 1700448916",
+		"amount": 11.00
+	}, {
+		"associatedAccount": "1465 0100 91 1708404168",
+		"amount": 22.00
+	}, {
+		"associatedAccount": "1465 0100 91 1708404168",
+		"amount": 99.00
+	}, {
+		"associatedAccount": "1465 0100 94 1700448916",
+		"amount": 11.00
+	}, {
+		"associatedAccount": "1465 0100 91 1708404168",
+		"amount": 22.00
+	}, {
+		"associatedAccount": "1465 0100 91 1708404168",
+		"amount": 99.00
+	}, {
+		"associatedAccount": "1465 0100 94 1700448916",
+		"amount": 11.00
+	}, {
+		"associatedAccount": "1465 0100 91 1708404168",
+		"amount": 22.00
+	}],
+	"openingDate": "14/02/2002",
+	"investment": 898.13,
+	"performance": -825.58,
+	"assessment": 72.55,
+	"assessmentDate": "21/12/2016",
+	"cumulativeReturn": -91.92,
+	"currentYearReturn": 0.00,
+	"lastTwelveMonthsReturn": -18.54,
+	"lastMonthReturn": 0.00,
+	"numberOfShares": 6.909155,
+	"sharesAvailable": 4.909155,
+	"lastNetAssetValue": 10.50,
+	"lastNetAssetValueDate": "21/12/2016",
+	"productNumber": "146501009740000000535",
+	"type": 40,
+	"availableBalance": 72.55,
+	"interventionCod": 1,
+	"balance": 72.55,
+	"moreInterveners": false,
+	"enableAlias": false,
+	"interventionDesc": "Titular",
+	"name": "Fondo NARANJA IBEX-35"
+}, {
+	"uuid": "Me5QbEjPYy8w9S_b2t0EjUw7nv0qUpM7oLEdNo4RWX2HpK8YLfVZ7ZYq7BV2utFE",
+	"status": {
+		"cod": "5",
+		"description": "Operative"
+	},
+	"holders": [{
+		"interventionDegree": {
+			"description": "TITULAR",
+			"code": "1"
+		},
+		"name": "INMACULADA GONZALEZ NIETO"
+	}],
+	"pendingSettlementOrders": [{
+		"associatedAccount": "1465 0110 68 1708318502",
+		"amount": 45.00
+	}, {
+		"associatedAccount": "1465 0110 68 1708318502",
+		"amount": 45.00
+	}, {
+		"associatedAccount": "1465 0100 94 1700448916",
+		"amount": 111.00
+	}, {
+		"associatedAccount": "1465 0110 68 1708318502",
+		"amount": 45.00
+	}, {
+		"associatedAccount": "1465 0100 94 1700448916",
+		"amount": 111.00
+	}],
+	"openingDate": "29/08/2005",
+	"investment": 138.80,
+	"performance": -41.69,
+	"assessment": 97.11,
+	"assessmentDate": "21/12/2016",
+	"cumulativeReturn": -30.04,
+	"currentYearReturn": 0.00,
+	"lastTwelveMonthsReturn": -32.14,
+	"lastMonthReturn": 0.00,
+	"numberOfShares": 10.221702,
+	"sharesAvailable": 0.00,
+	"lastNetAssetValue": 9.50,
+	"lastNetAssetValueDate": "21/12/2016",
+	"productNumber": "146501009740000000537",
+	"type": 40,
+	"availableBalance": 97.11,
+	"interventionCod": 1,
+	"balance": 97.11,
+	"moreInterveners": false,
+	"enableAlias": false,
+	"interventionDesc": "Titular",
+	"name": "Fondo NARANJA Eurostoxx 50"
+}, {
+	"uuid": "Me5QbEjPYy8w9S_b2t0Ejfx8-AzUff-X-RPHKsCnSsKHpK8YLfVZ7ZYq7BV2utFE",
+	"status": {
+		"cod": "5",
+		"description": "Operative"
+	},
+	"holders": [{
+		"interventionDegree": {
+			"description": "TITULAR",
+			"code": "1"
+		},
+		"name": "INMACULADA GONZALEZ NIETO"
+	}],
+	"openingDate": "17/06/2007",
+	"investment": 1180.00,
+	"performance": -66.44,
+	"assessment": 1113.56,
+	"assessmentDate": "21/12/2016",
+	"cumulativeReturn": -5.63,
+	"currentYearReturn": 0.00,
+	"lastTwelveMonthsReturn": 4.21,
+	"lastMonthReturn": 0.00,
+	"numberOfShares": 112.480572,
+	"sharesAvailable": 76.743533,
+	"lastNetAssetValue": 9.90,
+	"lastNetAssetValueDate": "21/12/2016",
+	"productNumber": "146501009740000000539",
+	"type": 40,
+	"availableBalance": 1113.56,
+	"interventionCod": 1,
+	"balance": 1113.56,
+	"moreInterveners": false,
+	"enableAlias": false,
+	"interventionDesc": "Titular",
+	"name": "Fondo NARANJA Renta Fija"
+}, {
+	"uuid": "Me5QbEjPYy8w9S_b2t0EjY25CMLrbJxmgdNb39XFyIgXojy5sLTZ3eIB29d0sE3e",
+	"status": {
+		"cod": "5",
+		"description": "Operative"
+	},
+	"holders": [{
+		"interventionDegree": {
+			"description": "TITULAR",
+			"code": "1"
+		},
+		"name": "INMACULADA GONZALEZ NIETO"
+	}],
+	"pendingSettlementOrders": [{
+		"associatedAccount": "1465 0100 94 1700448916",
+		"amount": 1.00
+	}],
+	"openingDate": "05/05/2008",
+	"investment": 15.49,
+	"performance": 0.19,
+	"assessment": 15.68,
+	"assessmentDate": "09/01/2017",
+	"cumulativeReturn": 1.23,
+	"currentYearReturn": 0.00,
+	"lastTwelveMonthsReturn": -11.30,
+	"lastMonthReturn": 0.00,
+	"numberOfShares": 1.537488,
+	"sharesAvailable": 0.56414,
+	"lastNetAssetValue": 10.20,
+	"lastNetAssetValueDate": "09/01/2017",
+	"productNumber": "1465010097400000005316",
+	"type": 40,
+	"availableBalance": 15.68,
+	"interventionCod": 1,
+	"balance": 15.68,
+	"moreInterveners": false,
+	"enableAlias": false,
+	"interventionDesc": "Titular",
+	"name": "Fondo Naranja Conservador"
+}, {
+	"uuid": "Me5QbEjPYy8w9S_b2t0EjY25CMLrbJxmgdNb39XFyIjhXrq0AcNAg0LAfy1quTpg",
+	"status": {
+		"cod": "5",
+		"description": "Operative"
+	},
+	"holders": [{
+		"interventionDegree": {
+			"description": "TITULAR",
+			"code": "1"
+		},
+		"name": "INMACULADA GONZALEZ NIETO"
+	}],
+	"openingDate": "10/05/2012",
+	"investment": 262.80,
+	"performance": -32.84,
+	"assessment": 229.96,
+	"assessmentDate": "09/01/2017",
+	"cumulativeReturn": -12.50,
+	"currentYearReturn": -6.86,
+	"lastTwelveMonthsReturn": -21.15,
+	"lastMonthReturn": 0.00,
+	"numberOfShares": 24.206193,
+	"sharesAvailable": 0.00,
+	"lastNetAssetValue": 9.50,
+	"lastNetAssetValueDate": "09/01/2017",
+	"productNumber": "1465010097400000005317",
+	"type": 40,
+	"availableBalance": 229.96,
+	"interventionCod": 1,
+	"balance": 229.96,
+	"moreInterveners": false,
+	"enableAlias": false,
+	"interventionDesc": "Titular",
+	"name": "Fondo Naranja Moderado"
+}, {
+	"uuid": "Me5QbEjPYy8w9S_b2t0EjY25CMLrbJxmgdNb39XFyIj9gkxewVBhi_MCgHHJF11U",
+	"status": {
+		"cod": "5",
+		"description": "Operative"
+	},
+	"holders": [{
+		"interventionDegree": {
+			"description": "TITULAR",
+			"code": "1"
+		},
+		"name": "INMACULADA GONZALEZ NIETO"
+	}],
+	"pendingSettlementOrders": [{
+		"associatedAccount": "1465 0100 93 2001259087",
+		"amount": 8.00
+	}, {
+		"associatedAccount": "1465 0100 93 2001259087",
+		"amount": 8.00
+	}, {
+		"associatedAccount": "1465 0100 93 2001259087",
+		"amount": 8.00
+	}, {
+		"associatedAccount": "1465 0100 93 2001259087",
+		"amount": 8.00
+	}, {
+		"associatedAccount": "1465 0100 94 1700448916",
+		"amount": 1.35
+	}, {
+		"associatedAccount": "1465 0100 94 1700448916",
+		"amount": 1.00
+	}, {
+		"associatedAccount": "1465 0100 93 2001259087",
+		"amount": 8.00
+	}, {
+		"associatedAccount": "1465 0100 94 1700448916",
+		"amount": 2.00
+	}, {
+		"associatedAccount": "1465 0100 93 2001259087",
+		"amount": 3.00
+	}, {
+		"associatedAccount": "1465 0100 94 1700448916",
+		"amount": 34.00
+	}, {
+		"associatedAccount": "1465 0110 68 1708318502",
+		"amount": 25.00
+	}, {
+		"associatedAccount": "1465 0100 94 2001445116",
+		"amount": 7.00
+	}, {
+		"associatedAccount": "1465 0100 94 2001445116",
+		"amount": 9.00
+	}, {
+		"associatedAccount": "1465 0100 98 1000000382",
+		"amount": 59.00
+	}],
+	"openingDate": "24/11/2011",
+	"investment": 0.00,
+	"performance": 0.00,
+	"assessment": 0.00,
+	"assessmentDate": "09/01/2017",
+	"cumulativeReturn": 0.00,
+	"currentYearReturn": 2.04,
+	"lastTwelveMonthsReturn": -19.84,
+	"lastMonthReturn": 0.00,
+	"numberOfShares": 0.00,
+	"sharesAvailable": 0.00,
+	"lastNetAssetValue": 10.00,
+	"lastNetAssetValueDate": "09/01/2017",
+	"productNumber": "1465010097400000005318",
+	"type": 40,
+	"availableBalance": 0.00,
+	"interventionCod": 1,
+	"balance": 0.00,
+	"moreInterveners": false,
+	"enableAlias": false,
+	"interventionDesc": "Titular",
+	"name": "Fondo Naranja Dinámico"
+}, {
+	"uuid": "Me5QbEjPYy8w9S_b2t0EjSwUvTirMSRurw8we5StJ1CHpK8YLfVZ7ZYq7BV2utFE",
+	"status": {
+		"cod": "5",
+		"description": "Operative"
+	},
+	"holders": [{
+		"interventionDegree": {
+			"description": "PRIMER TITULAR",
+			"code": "1"
+		},
+		"name": "INMACULADA GONZALEZ NIETO"
+	}, {
+		"interventionDegree": {
+			"description": "COTITULAR",
+			"code": "2"
+		},
+		"name": "JUAN MANUELL RAMOS PEREZ"
+	}, {
+		"interventionDegree": {
+			"description": "COTITULAR",
+			"code": "2"
+		},
+		"name": "JOSE MANUEL CORRAL CARBO"
+	}, {
+		"interventionDegree": {
+			"description": "COTITULAR",
+			"code": "2"
+		},
+		"name": "LUIS CUESTA CARBO"
+	}],
+	"openingDate": "12/12/2000",
+	"investment": 0.00,
+	"performance": 0.00,
+	"assessment": 0.00,
+	"assessmentDate": "28/05/2012",
+	"cumulativeReturn": 0.00,
+	"currentYearReturn": 0.00,
+	"lastTwelveMonthsReturn": 0.00,
+	"lastMonthReturn": 0.00,
+	"numberOfShares": 0.00,
+	"sharesAvailable": 0.00,
+	"lastNetAssetValue": 11.890577,
+	"lastNetAssetValueDate": "28/05/2012",
+	"productNumber": "146501009540000496652",
+	"type": 40,
+	"availableBalance": 0.00,
+	"interventionCod": 1,
+	"balance": 0.00,
+	"moreInterveners": true,
+	"enableAlias": false,
+	"interventionDesc": "Primer titular",
+	"name": "Fondo NARANJA Mixto Europeo"
+}, {
+	"uuid": "Me5QbEjPYy8w9S_b2t0EjSnxs3YTPhx35owLi6ygHU_hXrq0AcNAg0LAfy1quTpg",
+	"status": {
+		"cod": "5",
+		"description": "Operative"
+	},
+	"holders": [{
+		"interventionDegree": {
+			"description": "PRIMER TITULAR",
+			"code": "1"
+		},
+		"name": "INMACULADA GONZALEZ NIETO"
+	}, {
+		"interventionDegree": {
+			"description": "COTITULAR",
+			"code": "2"
+		},
+		"name": "JUAN MANUELL RAMOS PEREZ"
+	}, {
+		"interventionDegree": {
+			"description": "COTITULAR",
+			"code": "2"
+		},
+		"name": "JOSE MANUEL CORRAL CARBO"
+	}, {
+		"interventionDegree": {
+			"description": "COTITULAR",
+			"code": "2"
+		},
+		"name": "LUIS CUESTA CARBO"
+	}],
+	"openingDate": "10/05/2012",
+	"investment": 0.00,
+	"performance": 0.00,
+	"assessment": 0.00,
+	"assessmentDate": "09/01/2017",
+	"cumulativeReturn": 0.00,
+	"currentYearReturn": -6.86,
+	"lastTwelveMonthsReturn": -21.15,
+	"lastMonthReturn": 0.00,
+	"numberOfShares": 0.00,
+	"sharesAvailable": 0.00,
+	"lastNetAssetValue": 9.50,
+	"lastNetAssetValueDate": "09/01/2017",
+	"productNumber": "1465010095400004966517",
+	"type": 40,
+	"availableBalance": 0.00,
+	"interventionCod": 1,
+	"balance": 0.00,
+	"moreInterveners": true,
+	"enableAlias": false,
+	"interventionDesc": "Primer titular",
+	"name": "Fondo Naranja Moderado"
+}, {
+	"uuid": "Me5QbEjPYy8w9S_b2t0Ejc20HZ90e4sPfpBS6tot09aHpK8YLfVZ7ZYq7BV2utFE",
+	"status": {
+		"cod": "0",
+		"description": "Active"
+	},
+	"holders": [{
+		"interventionDegree": {
+			"description": "PRIMER TITULAR",
+			"code": "1"
+		},
+		"name": "INMACULADA GONZALEZ NIETO"
+	}, {
+		"interventionDegree": {
+			"description": "COTITULAR",
+			"code": "2"
+		},
+		"name": "JERONIMO GARCIA ORTIZ"
+	}],
+	"openingDate": "24/08/2006",
+	"investment": 3017.75,
+	"performance": -2945.27,
+	"assessment": 72.48,
+	"assessmentDate": "21/12/2016",
+	"cumulativeReturn": -97.60,
+	"currentYearReturn": 0.00,
+	"lastTwelveMonthsReturn": -21.57,
+	"lastMonthReturn": 0.00,
+	"numberOfShares": 7.629288,
+	"sharesAvailable": 7.629288,
+	"lastNetAssetValue": 9.50,
+	"lastNetAssetValueDate": "21/12/2016",
+	"productNumber": "146501009140001529381",
+	"type": 40,
+	"availableBalance": 72.48,
+	"interventionCod": 1,
+	"balance": 72.48,
+	"moreInterveners": true,
+	"enableAlias": false,
+	"interventionDesc": "Primer titular",
+	"name": "Fondo NARANJA S&P 500"
+}, {
+	"uuid": "Me5QbEjPYy8w9S_b2t0EjT2MnXr2K0jYByFb7iTtXsuHpK8YLfVZ7ZYq7BV2utFE",
+	"status": {
+		"cod": "0",
+		"description": "Active"
+	},
+	"holders": [{
+		"interventionDegree": {
+			"description": "PRIMER TITULAR",
+			"code": "1"
+		},
+		"name": "INMACULADA GONZALEZ NIETO"
+	}, {
+		"interventionDegree": {
+			"description": "COTITULAR",
+			"code": "2"
+		},
+		"name": "JERONIMO GARCIA ORTIZ"
+	}],
+	"openingDate": "24/08/2006",
+	"investment": 0.00,
+	"performance": 0.00,
+	"assessment": 0.00,
+	"assessmentDate": "28/05/2012",
+	"cumulativeReturn": 0.00,
+	"currentYearReturn": 0.00,
+	"lastTwelveMonthsReturn": 0.00,
+	"lastMonthReturn": 0.00,
+	"numberOfShares": 0.00,
+	"sharesAvailable": 0.00,
+	"lastNetAssetValue": 11.890577,
+	"lastNetAssetValueDate": "28/05/2012",
+	"productNumber": "146501009140001529382",
+	"type": 40,
+	"availableBalance": 0.00,
+	"interventionCod": 1,
+	"balance": 0.00,
+	"moreInterveners": true,
+	"enableAlias": false,
+	"interventionDesc": "Primer titular",
+	"name": "Fondo NARANJA Mixto Europeo"
+}, {
+	"uuid": "Me5QbEjPYy8w9S_b2t0EjWDSQvVI5Z7QrNN-3tW4IyKHpK8YLfVZ7ZYq7BV2utFE",
+	"status": {
+		"cod": "0",
+		"description": "Active"
+	},
+	"holders": [{
+		"interventionDegree": {
+			"description": "PRIMER TITULAR",
+			"code": "1"
+		},
+		"name": "INMACULADA GONZALEZ NIETO"
+	}, {
+		"interventionDegree": {
+			"description": "COTITULAR",
+			"code": "2"
+		},
+		"name": "JERONIMO GARCIA ORTIZ"
+	}],
+	"openingDate": "24/07/2002",
+	"investment": -7426.18,
+	"performance": 7542.36,
+	"assessment": 116.18,
+	"assessmentDate": "21/12/2016",
+	"cumulativeReturn": -101.56,
+	"currentYearReturn": 0.00,
+	"lastTwelveMonthsReturn": -18.54,
+	"lastMonthReturn": 0.00,
+	"numberOfShares": 11.06462,
+	"sharesAvailable": 11.06462,
+	"lastNetAssetValue": 10.50,
+	"lastNetAssetValueDate": "21/12/2016",
+	"productNumber": "146501009140001529385",
+	"type": 40,
+	"availableBalance": 116.18,
+	"interventionCod": 1,
+	"balance": 116.18,
+	"moreInterveners": true,
+	"enableAlias": false,
+	"interventionDesc": "Primer titular",
+	"name": "Fondo NARANJA IBEX-35"
+}, {
+	"uuid": "Me5QbEjPYy8w9S_b2t0EjRhNjOj6ZCsDZgS_6AsDaJ2HpK8YLfVZ7ZYq7BV2utFE",
+	"status": {
+		"cod": "0",
+		"description": "Active"
+	},
+	"holders": [{
+		"interventionDegree": {
+			"description": "PRIMER TITULAR",
+			"code": "1"
+		},
+		"name": "INMACULADA GONZALEZ NIETO"
+	}, {
+		"interventionDegree": {
+			"description": "COTITULAR",
+			"code": "2"
+		},
+		"name": "JERONIMO GARCIA ORTIZ"
+	}],
+	"openingDate": "24/08/2006",
+	"investment": 15.77,
+	"performance": -4.58,
+	"assessment": 11.19,
+	"assessmentDate": "21/12/2016",
+	"cumulativeReturn": -29.04,
+	"currentYearReturn": 0.00,
+	"lastTwelveMonthsReturn": -32.14,
+	"lastMonthReturn": 0.00,
+	"numberOfShares": 1.178291,
+	"sharesAvailable": 1.178291,
+	"lastNetAssetValue": 9.50,
+	"lastNetAssetValueDate": "21/12/2016",
+	"productNumber": "146501009140001529387",
+	"type": 40,
+	"availableBalance": 11.19,
+	"interventionCod": 1,
+	"balance": 11.19,
+	"moreInterveners": true,
+	"enableAlias": false,
+	"interventionDesc": "Primer titular",
+	"name": "Fondo NARANJA Eurostoxx 50"
+}, {
+	"uuid": "Me5QbEjPYy8w9S_b2t0Ejcz_HA4W8xJBJnzpzLgfNuKHpK8YLfVZ7ZYq7BV2utFE",
+	"status": {
+		"cod": "0",
+		"description": "Active"
+	},
+	"holders": [{
+		"interventionDegree": {
+			"description": "PRIMER TITULAR",
+			"code": "1"
+		},
+		"name": "INMACULADA GONZALEZ NIETO"
+	}, {
+		"interventionDegree": {
+			"description": "COTITULAR",
+			"code": "2"
+		},
+		"name": "JERONIMO GARCIA ORTIZ"
+	}],
+	"openingDate": "24/08/2006",
+	"investment": 93.57,
+	"performance": -5.37,
+	"assessment": 88.20,
+	"assessmentDate": "21/12/2016",
+	"cumulativeReturn": -5.74,
+	"currentYearReturn": 0.00,
+	"lastTwelveMonthsReturn": 4.21,
+	"lastMonthReturn": 0.00,
+	"numberOfShares": 8.909489,
+	"sharesAvailable": 8.909489,
+	"lastNetAssetValue": 9.90,
+	"lastNetAssetValueDate": "21/12/2016",
+	"productNumber": "146501009140001529389",
+	"type": 40,
+	"availableBalance": 88.20,
+	"interventionCod": 1,
+	"balance": 88.20,
+	"moreInterveners": true,
+	"enableAlias": false,
+	"interventionDesc": "Primer titular",
+	"name": "Fondo NARANJA Renta Fija"
+}, {
+	"uuid": "Me5QbEjPYy8w9S_b2t0Ejb4T7K8yBrkqd5K54YCwUhXhXrq0AcNAg0LAfy1quTpg",
+	"status": {
+		"cod": "0",
+		"description": "Active"
+	},
+	"holders": [{
+		"interventionDegree": {
+			"description": "PRIMER TITULAR",
+			"code": "1"
+		},
+		"name": "INMACULADA GONZALEZ NIETO"
+	}, {
+		"interventionDegree": {
+			"description": "COTITULAR",
+			"code": "2"
+		},
+		"name": "JERONIMO GARCIA ORTIZ"
+	}],
+	"openingDate": "10/05/2012",
+	"investment": 0.00,
+	"performance": 3557.24,
+	"assessment": 3557.24,
+	"assessmentDate": "09/01/2017",
+	"cumulativeReturn": 0.00,
+	"currentYearReturn": -6.86,
+	"lastTwelveMonthsReturn": -21.15,
+	"lastMonthReturn": 0.00,
+	"numberOfShares": 374.446326,
+	"sharesAvailable": 374.359455,
+	"lastNetAssetValue": 9.50,
+	"lastNetAssetValueDate": "09/01/2017",
+	"productNumber": "1465010091400015293817",
+	"type": 40,
+	"availableBalance": 3557.24,
+	"interventionCod": 1,
+	"balance": 3557.24,
+	"moreInterveners": true,
+	"enableAlias": false,
+	"interventionDesc": "Primer titular",
+	"name": "Fondo Naranja Moderado"
+}, {
+	"uuid": "Me5QbEjPYy8w9S_b2t0EjYFbryiH-zK2x_a-KyIAaaCHpK8YLfVZ7ZYq7BV2utFE",
+	"status": {
+		"cod": "5",
+		"description": "Operative"
+	},
+	"holders": [{
+		"interventionDegree": {
+			"description": "TITULAR",
+			"code": "1"
+		},
+		"name": "JERONIMO GALVEZ CORRAL"
+	}, {
+		"interventionDegree": {
+			"description": "AUTORIZADO",
+			"code": "3"
+		},
+		"name": "INMACULADA GONZALEZ NIETO"
+	}],
+	"openingDate": "27/09/2006",
+	"investment": 0.00,
+	"performance": 0.00,
+	"assessment": 0.00,
+	"assessmentDate": "21/12/2016",
+	"cumulativeReturn": 0.00,
+	"currentYearReturn": 0.00,
+	"lastTwelveMonthsReturn": -21.57,
+	"lastMonthReturn": 0.00,
+	"numberOfShares": 0.00,
+	"sharesAvailable": 0.00,
+	"lastNetAssetValue": 9.50,
+	"lastNetAssetValueDate": "21/12/2016",
+	"productNumber": "146501009740008311231",
+	"type": 40,
+	"availableBalance": 0.00,
+	"interventionCod": 3,
+	"balance": 0.00,
+	"moreInterveners": true,
+	"enableAlias": false,
+	"interventionDesc": "Autorizado",
+	"name": "Fondo NARANJA S&P 500"
+}, {
+	"uuid": "Me5QbEjPYy8w9S_b2t0EjalfPU2oGFizXYktk01E51SHpK8YLfVZ7ZYq7BV2utFE",
+	"status": {
+		"cod": "5",
+		"description": "Operative"
+	},
+	"holders": [{
+		"interventionDegree": {
+			"description": "TITULAR",
+			"code": "1"
+		},
+		"name": "JERONIMO GALVEZ CORRAL"
+	}, {
+		"interventionDegree": {
+			"description": "AUTORIZADO",
+			"code": "3"
+		},
+		"name": "INMACULADA GONZALEZ NIETO"
+	}],
+	"openingDate": "27/09/2006",
+	"investment": 0.00,
+	"performance": 0.00,
+	"assessment": 0.00,
+	"assessmentDate": "28/05/2012",
+	"cumulativeReturn": 0.00,
+	"currentYearReturn": 0.00,
+	"lastTwelveMonthsReturn": 0.00,
+	"lastMonthReturn": 0.00,
+	"numberOfShares": 0.00,
+	"sharesAvailable": 0.00,
+	"lastNetAssetValue": 11.890577,
+	"lastNetAssetValueDate": "28/05/2012",
+	"productNumber": "146501009740008311232",
+	"type": 40,
+	"availableBalance": 0.00,
+	"interventionCod": 3,
+	"balance": 0.00,
+	"moreInterveners": true,
+	"enableAlias": false,
+	"interventionDesc": "Autorizado",
+	"name": "Fondo NARANJA Mixto Europeo"
+}, {
+	"uuid": "Me5QbEjPYy8w9S_b2t0Ejf_R_KSkQybinWgE9DYFcwmHpK8YLfVZ7ZYq7BV2utFE",
+	"status": {
+		"cod": "5",
+		"description": "Operative"
+	},
+	"holders": [{
+		"interventionDegree": {
+			"description": "TITULAR",
+			"code": "1"
+		},
+		"name": "JERONIMO GALVEZ CORRAL"
+	}, {
+		"interventionDegree": {
+			"description": "AUTORIZADO",
+			"code": "3"
+		},
+		"name": "INMACULADA GONZALEZ NIETO"
+	}],
+	"openingDate": "27/09/2006",
+	"investment": 0.00,
+	"performance": 0.00,
+	"assessment": 0.00,
+	"assessmentDate": "21/12/2016",
+	"cumulativeReturn": 0.00,
+	"currentYearReturn": 0.00,
+	"lastTwelveMonthsReturn": -32.14,
+	"lastMonthReturn": 0.00,
+	"numberOfShares": 0.00,
+	"sharesAvailable": 0.00,
+	"lastNetAssetValue": 9.50,
+	"lastNetAssetValueDate": "21/12/2016",
+	"productNumber": "146501009740008311237",
+	"type": 40,
+	"availableBalance": 0.00,
+	"interventionCod": 3,
+	"balance": 0.00,
+	"moreInterveners": true,
+	"enableAlias": false,
+	"interventionDesc": "Autorizado",
+	"name": "Fondo NARANJA Eurostoxx 50"
+}, {
+	"uuid": "Me5QbEjPYy8w9S_b2t0EjYeLaoBhrYyXIuWPijUC_OqHpK8YLfVZ7ZYq7BV2utFE",
+	"status": {
+		"cod": "5",
+		"description": "Operative"
+	},
+	"holders": [{
+		"interventionDegree": {
+			"description": "TITULAR",
+			"code": "1"
+		},
+		"name": "JERONIMO GALVEZ CORRAL"
+	}, {
+		"interventionDegree": {
+			"description": "AUTORIZADO",
+			"code": "3"
+		},
+		"name": "INMACULADA GONZALEZ NIETO"
+	}],
+	"pendingSettlementOrders": [{
+		"associatedAccount": "1465 0100 91 1708404168",
+		"amount": 1.08
+	}, {
+		"associatedAccount": "1465 0100 91 1708404168",
+		"amount": 1.08
+	}],
+	"openingDate": "17/06/2007",
+	"investment": 0.00,
+	"performance": 0.00,
+	"assessment": 0.00,
+	"assessmentDate": "21/12/2016",
+	"cumulativeReturn": 0.00,
+	"currentYearReturn": 0.00,
+	"lastTwelveMonthsReturn": 4.21,
+	"lastMonthReturn": 0.00,
+	"numberOfShares": 0.00,
+	"sharesAvailable": 0.00,
+	"lastNetAssetValue": 9.90,
+	"lastNetAssetValueDate": "21/12/2016",
+	"productNumber": "146501009740008311239",
+	"type": 40,
+	"availableBalance": 0.00,
+	"interventionCod": 3,
+	"balance": 0.00,
+	"moreInterveners": true,
+	"enableAlias": false,
+	"interventionDesc": "Autorizado",
+	"name": "Fondo NARANJA Renta Fija"
+}, {
+	"uuid": "IV3Ae9JHvq0w3DmdvzHFf9UyX90eIbzELKrkFOONWRuHpK8YLfVZ7ZYq7BV2utFE",
+	"status": {
+		"cod": "5",
+		"description": "Operative"
+	},
+	"holder": {
+		"interventionDegree": {
+			"description": "TITULAR",
+			"code": "1"
+		},
+		"name": "INMACULADA GONZALEZ NIETO"
+	},
+	"defaultBeneficiaries": "Reglamentarios por defecto: 1º Cónyuge 2º Hijos a partes iguales 3º Padres 4º Herederos legales",
+	"openingDate": "14/11/2000",
+	"investment": 6296.29,
+	"performance": -6064.59,
+	"assessment": 231.70,
+	"assessmentDate": "20/04/2016",
+	"cumulativeReturn": -96.32,
+	"currentYearReturn": 0.00,
+	"lastTwelveMonthsReturn": -0.89,
+	"lastMonthReturn": 0.00,
+	"numberOfShares": 5.29877,
+	"lastNetAssetValue": 43.726824,
+	"lastNetAssetValueDate": "20/04/2016",
+	"productNumber": "146501009141000000993",
+	"type": 41,
+	"availableBalance": 231.70,
+	"interventionCod": 1,
+	"balance": 231.70,
+	"moreInterveners": false,
+	"enableAlias": false,
+	"interventionDesc": "Titular",
+	"name": "Plan NARANJA S&P 500"
+}, {
+	"uuid": "IV3Ae9JHvq0w3DmdvzHFf9B6YUkvcxf-VH4XwZQS0U-HpK8YLfVZ7ZYq7BV2utFE",
+	"status": {
+		"cod": "5",
+		"description": "Operative"
+	},
+	"pendingSettlementOrders": [{
+		"associatedAccount": "1465 0110 68 1708318502",
+		"amount": 12.00
+	}, {
+		"associatedAccount": "1465 0110 66 1708383684",
+		"amount": 2.10
+	}, {
+		"associatedAccount": "1465 0100 92 1000000398",
+		"amount": 99.00
+	}, {
+		"associatedAccount": "1465 0100 92 1000000398",
+		"amount": 99.00
+	}, {
+		"associatedAccount": "1465 0100 92 1000000398",
+		"amount": 99.00
+	}, {
+		"associatedAccount": "1465 0100 92 1000000398",
+		"amount": 99.00
+	}, {
+		"associatedAccount": "1465 0100 92 1000000398",
+		"amount": 99.00
+	}],
+	"holder": {
+		"interventionDegree": {
+			"description": "TITULAR",
+			"code": "1"
+		},
+		"name": "INMACULADA GONZALEZ NIETO"
+	},
+	"defaultBeneficiaries": "Reglamentarios por defecto: 1º Cónyuge 2º Hijos a partes iguales 3º Padres 4º Herederos legales",
+	"openingDate": "14/11/2000",
+	"investment": -7595.86,
+	"performance": 7816.62,
+	"assessment": 220.76,
+	"assessmentDate": "19/04/2016",
+	"cumulativeReturn": -102.91,
+	"currentYearReturn": 0.00,
+	"lastTwelveMonthsReturn": 0.41,
+	"lastMonthReturn": 0.00,
+	"numberOfShares": 4.09288,
+	"lastNetAssetValue": 53.936752,
+	"lastNetAssetValueDate": "19/04/2016",
+	"productNumber": "146501009141000000994",
+	"type": 41,
+	"availableBalance": 220.76,
+	"interventionCod": 1,
+	"balance": 220.76,
+	"moreInterveners": false,
+	"enableAlias": false,
+	"interventionDesc": "Titular",
+	"name": "Plan NARANJA Renta Fija Europea"
+}, {
+	"uuid": "IV3Ae9JHvq0w3DmdvzHFf5vPfpxNiGSf-qeTN6f6hvGHpK8YLfVZ7ZYq7BV2utFE",
+	"status": {
+		"cod": "5",
+		"description": "Operative"
+	},
+	"pendingSettlementOrders": [{
+		"associatedAccount": "1465 0110 61 1708383698",
+		"amount": 2.00
+	}, {
+		"associatedAccount": "1465 0110 61 1708383698",
+		"amount": 2.00
+	}, {
+		"associatedAccount": "1465 0110 61 1708383698",
+		"amount": 2.00
+	}, {
+		"associatedAccount": "1465 0110 61 1708383679",
+		"amount": 1.11
+	}],
+	"holder": {
+		"interventionDegree": {
+			"description": "TITULAR",
+			"code": "1"
+		},
+		"name": "INMACULADA GONZALEZ NIETO"
+	},
+	"defaultBeneficiaries": "Reglamentarios por defecto: 1º Cónyuge 2º Hijos a partes iguales 3º Padres 4º Herederos legales",
+	"openingDate": "30/10/2002",
+	"investment": 53.42,
+	"performance": 4541.14,
+	"assessment": 4594.56,
+	"assessmentDate": "01/09/2016",
+	"cumulativeReturn": 8500.82,
+	"currentYearReturn": 0.00,
+	"lastTwelveMonthsReturn": -14.36,
+	"lastMonthReturn": 0.00,
+	"numberOfShares": 375.939508,
+	"lastNetAssetValue": 12.221541,
+	"lastNetAssetValueDate": "01/09/2016",
+	"productNumber": "146501009141000000996",
+	"type": 41,
+	"availableBalance": 4594.56,
+	"interventionCod": 1,
+	"balance": 4594.56,
+	"moreInterveners": false,
+	"enableAlias": false,
+	"interventionDesc": "Titular",
+	"name": "Plan NARANJA Ibex 35"
+}, {
+	"uuid": "IV3Ae9JHvq0w3DmdvzHFf_ugFbFkuPLDKeW5s81OuPiHpK8YLfVZ7ZYq7BV2utFE",
+	"status": {
+		"cod": "5",
+		"description": "Operative"
+	},
+	"beneficiaries": [{
+		"percentage": 20.00,
+		"nif": "70429022d",
+		"name": "Javier Gaitán"
+	}, {
+		"percentage": 80.00,
+		"nif": "47498903q",
+		"name": "Lucia"
+	}],
+	"pendingSettlementOrders": [{
+		"associatedAccount": "1465 0110 61 1708383679",
+		"amount": 10.08
+	}],
+	"holder": {
+		"interventionDegree": {
+			"description": "TITULAR",
+			"code": "1"
+		},
+		"name": "INMACULADA GONZALEZ NIETO"
+	},
+	"openingDate": "01/12/2005",
+	"investment": 5393.53,
+	"performance": 451.70,
+	"assessment": 5845.23,
+	"assessmentDate": "20/04/2016",
+	"cumulativeReturn": 8.37,
+	"currentYearReturn": 0.00,
+	"lastTwelveMonthsReturn": -9.13,
+	"lastMonthReturn": 0.00,
+	"numberOfShares": 507.771871,
+	"lastNetAssetValue": 11.511522,
+	"lastNetAssetValueDate": "20/04/2016",
+	"productNumber": "146501009141000000998",
+	"type": 41,
+	"availableBalance": 5845.23,
+	"interventionCod": 1,
+	"balance": 5845.23,
+	"moreInterveners": false,
+	"enableAlias": false,
+	"interventionDesc": "Titular",
+	"name": "Plan NARANJA Euro Stoxx 50"
+}, {
+	"uuid": "IV3Ae9JHvq0w3DmdvzHFf0ZRbDF4KzbyYz0aY02OXCaahHfNgcmipXaGqseFqX5Z",
+	"status": {
+		"cod": "5",
+		"description": "Operative"
+	},
+	"beneficiaries": [{
+		"percentage": 100.00,
+		"nif": "70000077z",
+		"name": "Hhhgg"
+	}],
+	"pendingSettlementOrders": [{
+		"associatedAccount": "1465 0110 68 1708318502",
+		"amount": 100.00
+	}, {
+		"associatedAccount": "1465 0110 68 1708318502",
+		"amount": 100.00
+	}, {
+		"associatedAccount": "1465 0110 66 1708383684",
+		"amount": 10.88
+	}],
+	"holder": {
+		"interventionDegree": {
+			"description": "TITULAR",
+			"code": "1"
+		},
+		"name": "INMACULADA GONZALEZ NIETO"
+	},
+	"openingDate": "17/06/2007",
+	"investment": 24836.66,
+	"performance": 44441.39,
+	"assessment": 69278.05,
+	"assessmentDate": "20/04/2016",
+	"cumulativeReturn": 178.93,
+	"currentYearReturn": 0.00,
+	"lastTwelveMonthsReturn": 36.19,
+	"lastMonthReturn": 0.00,
+	"numberOfShares": 5354.504453,
+	"lastNetAssetValue": 12.938275,
+	"lastNetAssetValueDate": "20/04/2016",
+	"productNumber": "1465010091410000009910",
+	"type": 41,
+	"availableBalance": 69278.05,
+	"interventionCod": 1,
+	"balance": 69278.05,
+	"moreInterveners": false,
+	"enableAlias": false,
+	"interventionDesc": "Titular",
+	"name": "Plan NARANJA Renta Fija Corto Plazo"
+}, {
+	"uuid": "IV3Ae9JHvq0w3DmdvzHFf0ZRbDF4KzbyYz0aY02OXCZVKjLL7JuZvMOjRYCKaSgl",
+	"status": {
+		"cod": "5",
+		"description": "Operative"
+	},
+	"beneficiaries": [{
+		"percentage": 100.00,
+		"nif": "55654654j",
+		"name": "Dddddd"
+	}],
+	"holder": {
+		"interventionDegree": {
+			"description": "TITULAR",
+			"code": "1"
+		},
+		"name": "INMACULADA GONZALEZ NIETO"
+	},
+	"openingDate": "11/11/2014",
+	"investment": 0.00,
+	"performance": 0.00,
+	"assessment": 0.00,
+	"assessmentDate": "19/04/2016",
+	"cumulativeReturn": 0.00,
+	"currentYearReturn": 0.00,
+	"lastTwelveMonthsReturn": -0.84,
+	"lastMonthReturn": 0.00,
+	"numberOfShares": 0.00,
+	"lastNetAssetValue": 11.883019,
+	"lastNetAssetValueDate": "19/04/2016",
+	"productNumber": "1465010091410000009912",
+	"type": 41,
+	"availableBalance": 0.00,
+	"interventionCod": 1,
+	"balance": 0.00,
+	"moreInterveners": false,
+	"enableAlias": false,
+	"interventionDesc": "Titular",
+	"name": "Plan NARANJA 2015"
+}, {
+	"uuid": "IV3Ae9JHvq0w3DmdvzHFf0ZRbDF4KzbyYz0aY02OXCY6NxzW7T5scICTeU-RD-q7",
+	"status": {
+		"cod": "5",
+		"description": "Operative"
+	},
+	"holder": {
+		"interventionDegree": {
+			"description": "TITULAR",
+			"code": "1"
+		},
+		"name": "INMACULADA GONZALEZ NIETO"
+	},
+	"defaultBeneficiaries": "Reglamentarios por defecto: 1º Cónyuge 2º Hijos a partes iguales 3º Padres 4º Herederos legales",
+	"openingDate": "18/02/2007",
+	"investment": 56.53,
+	"performance": 9.14,
+	"assessment": 65.67,
+	"assessmentDate": "19/04/2016",
+	"cumulativeReturn": 16.17,
+	"currentYearReturn": 0.00,
+	"lastTwelveMonthsReturn": -3.27,
+	"lastMonthReturn": 0.00,
+	"numberOfShares": 5.38129,
+	"lastNetAssetValue": 12.20273,
+	"lastNetAssetValueDate": "19/04/2016",
+	"productNumber": "1465010091410000009913",
+	"type": 41,
+	"availableBalance": 65.67,
+	"interventionCod": 1,
+	"balance": 65.67,
+	"moreInterveners": false,
+	"enableAlias": false,
+	"interventionDesc": "Titular",
+	"name": "Plan NARANJA 2020"
+}, {
+	"uuid": "IV3Ae9JHvq0w3DmdvzHFf0ZRbDF4KzbyYz0aY02OXCYmryJ15-O4uZ3x2oIoECsK",
+	"status": {
+		"cod": "5",
+		"description": "Operative"
+	},
+	"pendingSettlementOrders": [{
+		"associatedAccount": "1465 0110 61 1708383679",
+		"amount": 5.00
+	}, {
+		"associatedAccount": "1465 0110 61 1708383679",
+		"amount": 10.00
+	}, {
+		"associatedAccount": "1465 0100 98 1000000382",
+		"amount": 10.88
+	}],
+	"holder": {
+		"interventionDegree": {
+			"description": "TITULAR",
+			"code": "1"
+		},
+		"name": "INMACULADA GONZALEZ NIETO"
+	},
+	"defaultBeneficiaries": "Reglamentarios por defecto: 1º Cónyuge 2º Hijos a partes iguales 3º Padres 4º Herederos legales",
+	"openingDate": "21/03/2012",
+	"investment": 0.00,
+	"performance": 0.00,
+	"assessment": 0.00,
+	"assessmentDate": "20/04/2016",
+	"cumulativeReturn": 0.00,
+	"currentYearReturn": 0.00,
+	"lastTwelveMonthsReturn": -5.78,
+	"lastMonthReturn": 0.00,
+	"numberOfShares": 0.00,
+	"lastNetAssetValue": 12.725043,
+	"lastNetAssetValueDate": "20/04/2016",
+	"productNumber": "1465010091410000009914",
+	"type": 41,
+	"availableBalance": 0.00,
+	"interventionCod": 1,
+	"balance": 0.00,
+	"moreInterveners": false,
+	"enableAlias": false,
+	"interventionDesc": "Titular",
+	"name": "Plan NARANJA 2030"
+}, {
+	"uuid": "IV3Ae9JHvq0w3DmdvzHFf0ZRbDF4KzbyYz0aY02OXCbdveTwcKHEHZQ-AqQYoz0e",
+	"status": {
+		"cod": "5",
+		"description": "Operative"
+	},
+	"pendingSettlementOrders": [{
+		"associatedAccount": "1465 0110 61 1708383679",
+		"amount": 10.98
+	}],
+	"holder": {
+		"interventionDegree": {
+			"description": "TITULAR",
+			"code": "1"
+		},
+		"name": "INMACULADA GONZALEZ NIETO"
+	},
+	"defaultBeneficiaries": "Reglamentarios por defecto: 1º Cónyuge 2º Hijos a partes iguales 3º Padres 4º Herederos legales",
+	"openingDate": "04/03/2011",
+	"investment": 0.00,
+	"performance": 0.00,
+	"assessment": 0.00,
+	"assessmentDate": "20/04/2016",
+	"cumulativeReturn": 0.00,
+	"currentYearReturn": 0.00,
+	"lastTwelveMonthsReturn": -7.12,
+	"lastMonthReturn": 0.00,
+	"numberOfShares": 0.00,
+	"lastNetAssetValue": 12.492951,
+	"lastNetAssetValueDate": "20/04/2016",
+	"productNumber": "1465010091410000009915",
+	"type": 41,
+	"availableBalance": 0.00,
+	"interventionCod": 1,
+	"balance": 0.00,
+	"moreInterveners": false,
+	"enableAlias": false,
+	"interventionDesc": "Titular",
+	"name": "Plan NARANJA 2040"
+}, {
+	"uuid": "IV3Ae9JHvq0w3DmdvzHFf0ZRbDF4KzbyYz0aY02OXCa8yT9DpIRgedhV-_6LeTU-",
+	"status": {
+		"cod": "5",
+		"description": "Operative"
+	},
+	"beneficiaries": [{
+		"percentage": 100.00,
+		"nif": "89789895b",
+		"name": "Laura Verde Azul"
+	}],
+	"pendingSettlementOrders": [{
+		"associatedAccount": "1465 0110 68 1708318502",
+		"amount": 10.00
+	}, {
+		"associatedAccount": "1465 0100 98 2000000492",
+		"amount": 100.00
+	}],
+	"holder": {
+		"interventionDegree": {
+			"description": "TITULAR",
+			"code": "1"
+		},
+		"name": "INMACULADA GONZALEZ NIETO"
+	},
+	"openingDate": "17/12/2013",
+	"investment": 0.00,
+	"performance": 0.00,
+	"assessment": 0.00,
+	"assessmentDate": "20/04/2016",
+	"cumulativeReturn": 0.00,
+	"currentYearReturn": 0.00,
+	"lastTwelveMonthsReturn": -6.64,
+	"lastMonthReturn": 0.00,
+	"numberOfShares": 0.00,
+	"lastNetAssetValue": 13.613765,
+	"lastNetAssetValueDate": "20/04/2016",
+	"productNumber": "1465010091410000009919",
+	"type": 41,
+	"availableBalance": 0.00,
+	"interventionCod": 1,
+	"balance": 0.00,
+	"moreInterveners": false,
+	"enableAlias": false,
+	"interventionDesc": "Titular",
+	"name": "Plan NARANJA 2050"
+}, {
+	"uuid": "hkAzLA4LL4HiiRRIjFlRFpHIlYp7_fuSDfglZv2DlPOahHfNgcmipXaGqseFqX5Z",
+	"status": {
+		"cod": "5",
+		"description": "Operative"
+	},
+	"holders": [{
+		"interventionDegree": {
+			"description": "TITULAR",
+			"code": "1"
+		},
+		"name": "INMACULADA GONZALEZ NIETO"
+	}, {
+		"interventionDegree": {
+			"description": "AUTORIZADO",
+			"code": "3"
+		},
+		"name": "JUAN MANUELL RAMOS PEREZ"
+	}],
+	"associatedAccount": {
+		"uuid": "TJa1EHr5S2t1d0pwaLszFGPRdschUt4XT_PNgv9n1MlV54siTFFW0dP8jmXLQ1p3",
+		"productNumber": "14650100981000000382"
+	},
+	"openingDate": "14/11/2002",
+	"type": 42,
+	"availableBalance": 37297.46,
+	"interventionCod": 1,
+	"balance": 37297.46,
+	"moreInterveners": true,
+	"enableAlias": true,
+	"interventionDesc": "Titular",
+	"productNumber": "14650100904200000390",
+	"name": "Cuenta de valores"
+}, {
+	"uuid": "hkAzLA4LL4HiiRRIjFlRFh2-Bu3Lj78cen_6v4fjKi0mryJ15-O4uZ3x2oIoECsK",
+	"status": {
+		"cod": "5",
+		"description": "Operative"
+	},
+	"holders": [{
+		"interventionDegree": {
+			"description": "PRIMER TITULAR",
+			"code": "1"
+		},
+		"name": "INMACULADA GONZALEZ NIETO"
+	}, {
+		"interventionDegree": {
+			"description": "COTITULAR",
+			"code": "2"
+		},
+		"name": "JUAN MANUELL RAMOS PEREZ"
+	}],
+	"associatedAccount": {
+		"uuid": "TJa1EHr5S2t1d0pwaLszFK1MQedtQYyoZ600pvyQjB32TTRMp7ac4rb2HpwXr-WA",
+		"productNumber": "14650100921000000398"
+	},
+	"openingDate": "14/11/2002",
+	"type": 42,
+	"availableBalance": 70204.23,
+	"interventionCod": 1,
+	"balance": 70204.23,
+	"moreInterveners": true,
+	"enableAlias": true,
+	"interventionDesc": "Primer titular",
+	"productNumber": "14650100934200000404",
+	"name": "Cuenta de valores"
+}, {
+	"uuid": "hkAzLA4LL4HiiRRIjFlRFkAS2qCACaeT9cPIMrEqYCj9TbaTk-4hyq1FW6F9dic8",
+	"status": {
+		"cod": "5",
+		"description": "Operative"
+	},
+	"holders": [{
+		"interventionDegree": {
+			"description": "TITULAR",
+			"code": "1"
+		},
+		"name": "JAIME CORRAL GALLARDA"
+	}, {
+		"interventionDegree": {
+			"description": "AUTORIZADO",
+			"code": "3"
+		},
+		"name": "INMACULADA GONZALEZ NIETO"
+	}],
+	"associatedAccount": {
+		"uuid": "TJa1EHr5S2t1d0pwaLszFLem-4z0odVNZeWmX0r42EmjuqS4dw3faOyxNfJFja-D",
+		"productNumber": "14650100931001109017"
+	},
+	"openingDate": "23/11/2007",
+	"type": 42,
+	"availableBalance": 84004.75,
+	"interventionCod": 3,
+	"balance": 84004.75,
+	"moreInterveners": true,
+	"enableAlias": true,
+	"interventionDesc": "Autorizado",
+	"productNumber": "14650100984200914821",
+	"name": "Cuenta de valores"
+}, {
+	"uuid": "hkAzLA4LL4HiiRRIjFlRFuSXgIAScQT1h2hTHB-zly_hXrq0AcNAg0LAfy1quTpg",
+	"status": {
+		"cod": "5",
+		"description": "Operative"
+	},
+	"holders": [{
+		"interventionDegree": {
+			"description": "PRIMER TITULAR",
+			"code": "1"
+		},
+		"name": "INMACULADA GONZALEZ NIETO"
+	}, {
+		"interventionDegree": {
+			"description": "COTITULAR",
+			"code": "2"
+		},
+		"name": "JESUS TORRES TORRES"
+	}, {
+		"interventionDegree": {
+			"description": "AUTORIZADO",
+			"code": "3"
+		},
+		"name": "JUAN CARLOS VALLE GOMEZ"
+	}],
+	"associatedAccount": {
+		"uuid": "F-CaijQr_jl2BublqaFVx1Iu1KXtvgGi4X2yFHXLV_u8WXBUQw1xU-KJG2X--Vyj",
+		"productNumber": "14650100962000000044"
+	},
+	"openingDate": "24/03/2010",
+	"type": 42,
+	"availableBalance": 109437938.42,
+	"interventionCod": 1,
+	"balance": 109437938.42,
+	"moreInterveners": true,
+	"enableAlias": true,
+	"interventionDesc": "Primer titular",
+	"productNumber": "14650100994201605257",
+	"name": "Cuenta de valores"
+}]
